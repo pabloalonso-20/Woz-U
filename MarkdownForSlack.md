@@ -1,8 +1,15 @@
 ## ***Mardown File Heading***
 
-This is a *regular paragraph*  
+This is the first  *regular paragraph*  
 You need to have two spaces at the end of the line 
 and have to press return for a **new line**.  
+  
+  
+This is the second paragraph and it contains  
+a quote.
+> To be or not to be  
+  
+  
   
   
 ```java  
