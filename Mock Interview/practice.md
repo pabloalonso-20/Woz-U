@@ -21,7 +21,8 @@ It refers to the parent class objects, which is an example of inheritance.
 An interface is an abstract class where you group related methods with empty bodies.
 It follows abstraction. 
 
-
+### Tell me about a time you had a challenge and how you overcame it?
+In highschool I wanted a way to earn money online somehow since I wasn't allowed to have a job. I learned about affiliate websites where you can post items and link them for example to amazon and you get commission if someone uses that link to purchase an item. The problem was, I had no idea how to make one and I needed to learn CSS and HTML. There were a lot of new concepts I had to learn. I remember working on it during lunchbreak at school and anytime i'd get the chance to do so. I made the whole website very niche to things that interested me at the time and realized I had fun doing it. That was ultimately the start of my journey into the computer science field. 
 
 
 
